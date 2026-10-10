@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and general support
+    url: https://github.com/ingeri
+    about: For general questions, start a discussion on the relevant project repository.
+  - name: Report a security vulnerability
+    url: https://github.com/ingeri/.github/security/advisories/new
+    about: Please report security issues privately instead of opening a public issue.
